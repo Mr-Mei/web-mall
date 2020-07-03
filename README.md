@@ -92,6 +92,6 @@ cnpm install vue-lazyload --save   // 图片加载
 <br>
 [10-vuex.md - 基于Vuex改造登录和购物车数量功能](https://github.com/Mr-Mei/web-mall/blob/master/web-mall/10-vuex.md)
 
-未完待续......
+项目预览说明：由于后端代码和数据均在本地，因此项目预览页面展示的是前端的部分页面！望理解！！！
 
 
