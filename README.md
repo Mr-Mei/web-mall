@@ -4,7 +4,7 @@
 
 ### 运行项目
 
-1、先安装mongodb和环境搭建： [http://www.cnblogs.com/ccyinghua/p/7887713.html](http://www.cnblogs.com/ccyinghua/p/7887713.html)
+1、先安装mongodb和环境搭建： [https://www.cnblogs.com/meijifu/p/13234656.html)
 
 2、安装mongovue,建立dumall数据库，增加goods和users集合，插入数据(数据在resource/dumall-goods和resource/dumall-users) <br>
 
